@@ -605,7 +605,7 @@ def login_or_register():
     <div class="auth-container">
         <div class="auth-header">
             <div class="auth-icon">🏦</div>
-            <div class="auth-title">Budget & Finance Management System</div>
+            <div class="auth-title">Budget AND Finance Management System</div>
             <div class="auth-subtitle">Enterprise Edition</div>
         </div>
         <div class="auth-body">
