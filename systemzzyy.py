@@ -11,7 +11,7 @@ from io import BytesIO
 # PAGE CONFIGURATION
 # =========================
 st.set_page_config(
-    page_title="Enterprise Budget & Finance Management System",
+    page_title="Enterprise Budget AND  Finance Management System",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
